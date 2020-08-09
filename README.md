@@ -1,2 +1,2 @@
 # regex_validators
-Little functions that verify if parameters match a specific regex patterns
+Little functions that verify if parameter match a specific regex pattern
